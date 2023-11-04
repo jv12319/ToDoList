@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![GIF](https://github.com/jv12319/FlashCardsHistory/blob/main/web102project2.5Gif.gif)
+![GIF](https://github.com/jv12319/ToDoList/blob/main/web102project7Gif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
