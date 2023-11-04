@@ -1,10 +1,10 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - To Do List
 
 Submitted by: Joseph Vargas
 
-This web app: **insert description**
+This web app: allows users to create, edit and delete multiple tasks that they have created for their to do list.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
