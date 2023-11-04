@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![GIF](https://github.com/jv12319/FlashCardsHistory/blob/main/web102project2.5Gif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
